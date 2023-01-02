@@ -1,0 +1,48 @@
+body {
+    background-color: #F4F9F9;
+}
+
+hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: rgb(83, 74, 74);
+    border-width: 7px;
+    width: 4%;
+}
+
+h1:hover {
+    background-color: yellow;
+    color: red;
+}
+
+.heading {
+
+    color: white;
+    background-color: #2B60DE;
+    height: 45px;
+}
+
+img{
+    border-radius: 30%;
+}
+img:hover{
+    background-color: yellow;
+}
+h3 {
+    color: white;
+    background-color: #2B60DE;
+    height: 25px;
+}
+
+h4 {
+    color: #046582;
+}
+
+
+
+
+
+h3:hover {
+    background-color: yellow;
+    color: red;
+}
